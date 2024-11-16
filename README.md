@@ -42,6 +42,23 @@ Connect to the Windows instance using RDP.</br>
 ### NAME : 212222100054
 
 ## OUTPUT
+## S3 BUCKET CREATION:
+![image](https://github.com/user-attachments/assets/4e356df0-220e-4dde-9512-b1b21a4167e1)
+### CONTENT IN BUCKET :
+![image](https://github.com/user-attachments/assets/9561c4b9-7e9a-4afc-a43f-4b293785e845)
+![image](https://github.com/user-attachments/assets/ff392526-683b-465d-ab9e-043d7e11d15e)
+### VERSIONING :
+![image](https://github.com/user-attachments/assets/b4c61ac0-f9ee-4c2b-821b-9c752037ee9c)
+
+## EC2:
+![image](https://github.com/user-attachments/assets/7f6a0259-f9d4-4063-b3f7-e1c25ffbf0f4)
+
+### Linux :
+![image](https://github.com/user-attachments/assets/01a1e4cf-cff3-47d7-92ba-ba67d75ed25e)
+![image](https://github.com/user-attachments/assets/1e4a2e35-a766-4dcb-a1df-084238d94f46)
+
+### Windows :
+![image](https://github.com/user-attachments/assets/531e4d19-ecdb-419d-9075-2a0cd80d7735)
 
 ## RESULT
  Successfully created an S3 bucket and EC2 instances for both Linux and Windows, demonstrating cloud resource management on AWS.
