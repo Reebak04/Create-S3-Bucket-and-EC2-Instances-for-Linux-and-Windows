@@ -49,6 +49,9 @@ Connect to the Windows instance using RDP.</br>
 ![image](https://github.com/user-attachments/assets/ff392526-683b-465d-ab9e-043d7e11d15e)
 ### VERSIONING :
 ![image](https://github.com/user-attachments/assets/b4c61ac0-f9ee-4c2b-821b-9c752037ee9c)
+### REPLICATION :
+![image](https://github.com/user-attachments/assets/916faa13-76b6-407a-831e-d8b92e509923)
+![image](https://github.com/user-attachments/assets/b2f67958-840d-4657-8445-23c859ce5f18)
 
 ## EC2:
 ![image](https://github.com/user-attachments/assets/7f6a0259-f9d4-4063-b3f7-e1c25ffbf0f4)
